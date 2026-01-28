@@ -1,5 +1,5 @@
 {
     "rewrites":[
-            {"source":"/(.*)" ,"destination":"/profile.html",destination":"/profile.html"}
+            {"source":"/(.*)" ,"destination":"/5.html"}
         ]
 }
